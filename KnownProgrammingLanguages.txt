@@ -1,0 +1,1 @@
+C#,HTML,Python,Javascript,Java,Basic,Visual Basic,Powershell,cmd,bash,SQL,MySQL,SQLite3,C,C++,
